@@ -1,4 +1,4 @@
-# Orange Pi 5B Plus - Orange Pi OS - Android - SD Card 
+# Orange Pi 5 Plus - Orange Pi OS - Android - SD Card 
 
 ---
 
